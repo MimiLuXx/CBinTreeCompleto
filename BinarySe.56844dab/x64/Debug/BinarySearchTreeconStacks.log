@@ -1,3 +1,0 @@
-﻿  BinarySearchTreeconStacks.cpp
-E:\CCOMP\CODIGO\BinarySearchTreeconStacks\BinarySearchTreeconStacks.cpp(172,27): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
-  BinarySearchTreeconStacks.vcxproj -> E:\CCOMP\CODIGO\BinarySearchTreeconStacks\x64\Debug\BinarySearchTreeconStacks.exe
